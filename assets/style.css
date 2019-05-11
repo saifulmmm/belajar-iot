@@ -70,6 +70,14 @@
     cursor: pointer;
     transition: color 1s;
 }
+.alamat{
+    color: white;
+    position:  absolute;
+  left: 400px;
+  top: 260px;
+  width: 300px;
+  height: 100px;
+}
 .weather-description{
     text-align: center;
     color: white;
