@@ -25,7 +25,7 @@
                 <h1 class="temp"></h1>
                 <span class="temp-type">°C</span>
             </div>
-            <h2 class="weather-description">Hari yang  1menyenangkan</h2>            
+            <h2 class="weather-description">Hari yang  mmmmenyenangkan</h2>            
         </div>
     </div>
     <script src="./assets/js/skycons.js"></script>
