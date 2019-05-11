@@ -16,12 +16,16 @@
                 <h2 class="weather-location"></h2>
                 
                 <canvas class="weatherType" id="icon1" width="128" height="128"></canvas>
+
+
+
+                
             </div>
             <div class="row2">
                 <h1 class="temp"></h1>
                 <span class="temp-type">°C</span>
             </div>
-            <h2 class="weather-description">Hari yang menyenangkan</h2>            
+            <h2 class="weather-description">Hari yang  1menyenangkan</h2>            
         </div>
     </div>
     <script src="./assets/js/skycons.js"></script>
