@@ -1,4 +1,8 @@
 $(document).ready(function(){
+
+    var skycons = new Skycons({"color": "white"});
+    skycons.add("icon1", Skycons.PARTLY_CLOUDY_DAY);
+    skycons.play();
     var api = "https://pelatihan-iot.herokuapp.com/api/data/current";
 
     $.ajax({

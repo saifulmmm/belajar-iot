@@ -25,9 +25,10 @@
                 <h1 class="temp"></h1>
                 <span class="temp-type">°C</span>
             </div>
-            <h2 class="weather-description">Hari yang  menyenangkannnnnn</h2>            
+            <h2 class="weather-description">Hari yang  menyenangkan</h2>            
         </div>
     </div>
+    <script src="skycons.js"></script>
     <script src="./assets/js/skycons.js"></script>
     <script src="./assets/js/jquery-3.2.1.min.js"></script>
     <script src="./assets/js/main.js"></script>      
