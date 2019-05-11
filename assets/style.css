@@ -8,10 +8,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(#311847), to(rgb(14, 196, 29)));
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#000000), to(rgb(8, 209, 216)));
     background-image: -webkit-linear-gradient(top, #311847, #3EB9E6);
-    background-image: -moz-linear-gradient(top, #311847, #3EB9E6);
-    background-image: linear-gradient(to bottom, #311847, rgb(23, 124, 182));
+    background-image: -moz-linear-gradient(top, #311847, rgb(235, 235, 235));
+    background-image: linear-gradient(to bottom, #311847, rgb(4, 150, 235));
 }
 .weather-box{
 
@@ -25,7 +25,7 @@
     font-family: 'Abel', sans-serif;
     animation-name: introduction;
     animation-duration: 2s;
-    
+
    
 }
 .row1{
@@ -65,7 +65,7 @@
     transition: color 1s;
 }
 .temp-type{
-    color: #3EB9E6;
+    color: rgb(18, 21, 228);
     font-size: 80px;
     cursor: pointer;
     transition: color 1s;
