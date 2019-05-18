@@ -52,7 +52,7 @@
                 <h1 class="temp"></h1>
                 <span class="temp-type">°C</span>
             </div>
-            <h2 class="weather-description">Hari yang  menyenangkan hehe</h2>  
+            <h2 class="weather-description">Hari yang  menyenangkan hehe.</h2>  
 
             <h5 class="alamat">Sekip Unit 1, Blimbing Sarii, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281</h5>            
         </div>
